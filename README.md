@@ -1,2 +1,2 @@
-# miniproject
-Questioin paper generator
+Question paper generator
+
